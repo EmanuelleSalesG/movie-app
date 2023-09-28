@@ -11,7 +11,7 @@
 3. The app will display a list of movies matching the search query.
 
 ## Code Structure
-`index.html`: The main HTML file that contains the structure of the web page.
-`script.js`: JavaScript file responsible for fetching movie data from the TMDb API and handling user interactions.
-`style.css`: CSS file for styling the app.
+- `index.html`: The main HTML file that contains the structure of the web page.
+- `script.js`: JavaScript file responsible for fetching movie data from the TMDb API and handling user interactions.
+- `style.css`: CSS file for styling the app.
 
